@@ -1,0 +1,52 @@
+/* %%%%Task 01 */
+
+div{
+    display: inline-block;
+    outline: 5px solid black;
+    margin:50px;
+    font-size:20px;
+    background-color:lightgray;
+} 
+
+ .shape1{
+    border:5px solid red !important;
+   
+
+}
+
+.shape2{
+  
+   border:5px solid ;
+   border-color:blue green;
+}
+
+.shape3{
+border:5px dashed;
+border-color:red green blue yellow;
+}
+
+/* %%%%Task 02 */
+div{
+    width:400px;
+    background-color:lightgrey;
+  
+
+}
+
+.shape4{
+border-left:5px solid hotpink;
+outline: 5px solid lightgray;
+
+}
+
+.shape5{
+    visibility: hidden;
+    outline: 5px solid lightgray;
+
+}
+
+.shape6{
+    border-left:5px solid cyan;
+    outline: 5px solid lightgray;
+
+}
